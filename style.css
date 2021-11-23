@@ -39,3 +39,10 @@ a{
 .ms-padding-y{
     padding: 0 100px;
 }
+
+.ms-section-3{
+    background-color: black;
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+}
