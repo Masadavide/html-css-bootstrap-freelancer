@@ -4,10 +4,38 @@
     box-sizing: border-box;
 }
 
+a{
+    text-decoration: none;
+}
+
 .ms-avatar{
     width: 300px;
 }
 
 .ms-image{
     width: 550px;
+}
+
+.ms-margin-top{
+    margin-top: 30px;
+}
+
+.ms-margin-bottom{
+    margin-bottom: 30px;
+}
+
+.ms-section{
+    background-color: rgb(44, 62, 80);
+}
+
+.ms-section-1{
+    background-color: rgb(26, 188, 156);
+}
+
+.ms-section-2{
+    background-color: rgb(58, 84, 109);
+}
+
+.ms-padding-y{
+    padding: 0 100px;
 }
