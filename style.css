@@ -11,6 +11,9 @@ body{
 a{
     text-decoration: none;
 }
+.ms-section-2 a i{
+    color: white;
+}
 
 .ms-avatar{
     width: 300px;
@@ -45,7 +48,7 @@ a{
     width: 15%;
     height: 3px;
     line-height: 3px;
-    border-radius: 2px;
+    border-radius: 20px;
     vertical-align: middle;
     background-color: white;
 }
@@ -67,7 +70,7 @@ a{
     width: 15%;
     height: 3px;
     line-height: 3px;
-    border-radius: 2px;
+    border-radius: 20px;
     vertical-align: middle;
     background-color: black;
 }
@@ -93,3 +96,6 @@ a{
     background-color: rgb(26, 188, 156);
 }
 
+.ms-fs-8{
+    font-size: 0.8rem;
+}
